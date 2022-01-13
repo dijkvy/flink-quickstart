@@ -71,4 +71,4 @@ mvn clean install -DskipTests  -Dfast  -Dcheckstyle.skip=true
 
 其中可能会遇到错误, 多尝试几次, 有可能是拉取依赖包失败, 这可能需要换取代理或直接使用中央仓库+tizi
 
-![image-20220113221430543](resource/image-20220113221430543.png)
+![image-20220113221430543](resource/image-20220113221319893.png)
