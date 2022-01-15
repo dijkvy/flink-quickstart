@@ -8,7 +8,7 @@
 5. [从编译 Flink 源码](posts/environment/build_from_source_code/build_from_source_code.md)
 
 ## Flink编程模型和 word count 程序
-// todo
+1. [word count程序](posts/wordcount/wordcount.md)
 
 ## 了解Flink常用算子
 // todo
